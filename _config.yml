@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tiago M Silva
+title: My random repo
 email: tiagomms.15@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software engineer pivoting to XR Dev & Design. Working currently @ Deloitte Digital as XR Developer.
@@ -21,6 +21,11 @@ github_username: tiagomms
 #twitter_username: username
 minimal_mistakes_skin: mint
 search: true
+locale: "en-US"
+name: "Tiago M Silva"
+url: "https://tiagomms.github.io"
+baseurl: "/xr-portfolio"
+repository: "tiagomms/xr-portfolio"
 
 # Build settings
 markdown: kramdown
@@ -33,6 +38,7 @@ timezone: Europe/Lisbon # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 include:
   - _pages
+  - .htaccess
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,9 +51,46 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -63,6 +106,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tiagomms.15@gmail.com"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -81,6 +127,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tiagomms.15@gmail.com"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

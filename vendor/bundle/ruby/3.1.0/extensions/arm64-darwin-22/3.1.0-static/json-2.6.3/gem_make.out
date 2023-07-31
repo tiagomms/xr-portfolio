@@ -1,0 +1,13 @@
+current directory: /Users/tiagomisilva/Projects/Web/xr-portfolio/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+/Users/tiagomisilva/.rubies/ruby-3.1.3/bin/ruby -I /Users/tiagomisilva/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/tiagomisilva/Projects/Web/xr-portfolio/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230728-93940-knof0c sitelibdir\=./.gem.20230728-93940-knof0c clean
+
+current directory: /Users/tiagomisilva/Projects/Web/xr-portfolio/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230728-93940-knof0c sitelibdir\=./.gem.20230728-93940-knof0c
+make: Nothing to be done for `all'.
+
+current directory: /Users/tiagomisilva/Projects/Web/xr-portfolio/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230728-93940-knof0c sitelibdir\=./.gem.20230728-93940-knof0c install
