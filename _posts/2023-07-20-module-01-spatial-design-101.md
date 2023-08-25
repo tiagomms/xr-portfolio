@@ -9,6 +9,7 @@ tags:
   - XR Design
   - XR Design Fellowship
   - XR Bootcamp
+  - Bezel
 toc: true
 
 ---
