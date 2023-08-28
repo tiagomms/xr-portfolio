@@ -73,6 +73,13 @@ And it doesn't have to a bowl: it can be a book/magazine shelf (if you want to s
 
 I think it can be good to bring a bit of a nostalgia to our shared digital spaces - and our home (usually) tends to be a place where we share things. Plus seemed simple and fun.
 
+***Update after submission***
+
+I made this video showcasing my moodboard and storyboard in ShapesXR, with a Holonote.
+
+{% include video id="858647363" provider="vimeo" %}
+
+
 ### Process Achievements
 
 - Completed the challenges mentioned above (brainstorming, moodboarding, storyboarding, bodystorming in ShapesXR)
@@ -85,8 +92,11 @@ I think it can be good to bring a bit of a nostalgia to our shared digital space
   - used many features: snapping to object, group objects, duplicate objects between stages 
   - created many stages between each part to tell a story
   - Used Interactable menu (beta): tell the story using stages, each stage was activated by gaze/pinch (or delay in case of portraying animations)
+  - (after submitting) adding Holonote talking about the moodboard and storyboard
 
-The end result is the video you've probably seen above.
+The end result is the video in the header.
+
+Below, you can review my figma boards.
 
 <div class="responsive-video-container">
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
