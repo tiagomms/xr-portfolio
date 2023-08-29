@@ -49,6 +49,7 @@ The video above is the end result of my post-assignment.
 
 ### Next steps
 
+- Perform an actual test with gaze & pinch (I have a quest 2 so my testing was always flawed)
 - Add initial app menu to click on AppMarks and start app
 - Procedure to put an app back in the bowl 
 - Scale buttons, and virtual bowl appropriately depending on how far the user is (using something like [Size Calculator](https://sizecalc.com))
