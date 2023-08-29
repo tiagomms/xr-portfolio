@@ -74,7 +74,7 @@ Here a few takes of the session:
 
 {% include video id="StXDwpouhkM" provider="youtube" %}
 
-### How tricky is eye tracking
+### How tricky is eye tracking?
 
 **This linkedin post is really good - The art of eye tracking**
 
@@ -95,7 +95,7 @@ Both assignments have their own post. Check them out:
 
 Before the bootcamp, I haven't had much experience follow the process of ideation, brainstorming, storyboarding and prototyping without code. It is really beneficial for my personal practice and reduces a lot of stress.
 
-I can say with the ShapesXR team ([Jeremy Casper](https://www.linkedin.com/in/jercasper/), [Paul Hoover](https://www.linkedin.com/in/pahoover/), [Gabriele Romagnoli](https://www.linkedin.com/in/gabriele-romagnolixr/), I realized it is relaxing and actually fun to prototype things.
+I can say with the ShapesXR team ([Jeremy Casper](https://www.linkedin.com/in/jercasper/), [Paul Hoover](https://www.linkedin.com/in/pahoover/), [Gabriele Romagnoli](https://www.linkedin.com/in/gabriele-romagnolixr/)), I realized it is relaxing and actually fun to prototype things.
 ShapesXR makes you feel like you are playing with play-doh or painting, or playing piano. 
 It can be a very smoothing experience and I appreciated that a lot.
 

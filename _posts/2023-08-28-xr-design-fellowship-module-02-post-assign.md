@@ -66,7 +66,7 @@ It is important to mind these are kind of open assignments and it is really hard
 ### Personal Thoughts
 
 I can say without Eugene's video (above), I wouldn't have thought of bowls or App Marks. 
-And with Jeremy, and Paul Hoover from Shapes XR, I realized it is relaxing and actually fun to prototype things.
+And with [Jeremy Casper](https://www.linkedin.com/in/jercasper/) and [Paul Hoover](https://www.linkedin.com/in/pahoover/) from Shapes XR, I realized it is relaxing and actually fun to prototype things.
 ShapesXR makes you feel like you are playing with play-doh or painting, or playing piano. 
 It can be a very smoothing experience and I appreciated that a lot.
 
