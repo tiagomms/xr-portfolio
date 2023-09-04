@@ -54,8 +54,9 @@ The video above is the end result of my post-assignment.
 - Procedure to put an app back in the bowl 
 - Scale buttons, and virtual bowl appropriately depending on how far the user is (using something like [Size Calculator](https://sizecalc.com))
 - Test a possible direct gesture manipulation for playing (like the video below - or [click on the link](https://twitter.com/crookookoo/status/745243850667663360) if it is not working)
+- Follow [Billy Kwok's](https://www.linkedin.com/in/billykwokhk/) feedback on the experience - transform the bowl into a drawer makes way more sense indeed! 
 
-It is important to mind these are kind of open assignments and it is really hard to stop.
+![Live Session - Gaze & Pinch Interactions in Smart Homes]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/02/external-feedback.png)
 
 <div class="responsive-video-container" style="padding-bottom: 580px;">
   <div class="fluid-width-video-wrapper" style="padding-top: 580px;">
@@ -70,4 +71,6 @@ And with [Jeremy Casper](https://www.linkedin.com/in/jercasper/) and [Paul Hoove
 ShapesXR makes you feel like you are playing with play-doh or painting, or playing piano. 
 It can be a very smoothing experience and I appreciated that a lot.
 
-Thank you to the XR Design Fellowship team, and ShapesXR for this incredible module.
+As usual, it is important to mind these are kind of open assignments and it is really hard to stop. I hope to keep improving on setting deadlines as I go.
+
+Thank you to the XR Design Fellowship team, and ShapesXR for this incredible module!
