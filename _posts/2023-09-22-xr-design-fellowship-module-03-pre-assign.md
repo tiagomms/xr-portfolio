@@ -41,6 +41,8 @@ gallery-prea:
 
 ## 02. Module 03 - Worldbuilding for XR Experience: Pre-Assignment
 
+You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
+
 For more information on the module, please check the main article coming soon [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
 
 This assignment has a second part - please check it out to see the final product - [Post-Assignment](../xr-design-fellowship-module-03-post-assign/)!
@@ -119,6 +121,8 @@ In ShapesXR:
 <iframe title="Low Poly Terrain with Lake and Trees" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/3c1f225e489945a0b336c64a9c173575/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/low-poly-terrain-with-lake-and-trees-3c1f225e489945a0b336c64a9c173575?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Low Poly Terrain with Lake and Trees </a> by <a href="https://sketchfab.com/ronilbiswas.8937?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ronilbiswas.8937 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
 </div>
 </div>
+
+Again, you may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).
 
 ### Next steps and Thoughts
 
