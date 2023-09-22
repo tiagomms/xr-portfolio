@@ -97,7 +97,7 @@ In the end, this was my conclusion:
 
 **Since the TUMO Boxes tend to have similar layouts with the same dimensions/shapes (a computer room, entrance, so on), if they had a "white" room (room without anything around) - it could become the place where museums come true.**
 
-**The similar setup of all boxes make them an interesting case for pop-up museums that can be set remotely, in which the staff in charge of the box have the responsability of maintaining the XR devices clean, and the experiences can be setup remotely**
+**The similar setup of all boxes make them an interesting case for pop-up museums that can be set remotely, in which the staff in charge of the box have the responsability of maintaining the XR devices clean, and the experiences can be setup remotely.**
 
 #### Part 02 - Designing and Prototyping
 
@@ -112,14 +112,13 @@ In ShapesXR:
 - 5 viewpoints: 3 outside, 1 in the TUMO Box entrance, 1 in the computer room
 - Took screenshots and made a video for all of you to see (see gallery below).
 
+{% include gallery id="gallery-prea" caption="Pre-Assignment Screenshots of TUMO Box built in ShapesXR." %}
+
 <div class="responsive-video-container">
   <div class="fluid-width-video-wrapper" style="padding-top: 50%;">
-
 <iframe title="Low Poly Terrain with Lake and Trees" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/3c1f225e489945a0b336c64a9c173575/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/low-poly-terrain-with-lake-and-trees-3c1f225e489945a0b336c64a9c173575?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Low Poly Terrain with Lake and Trees </a> by <a href="https://sketchfab.com/ronilbiswas.8937?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ronilbiswas.8937 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=3c1f225e489945a0b336c64a9c173575" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
 </div>
 </div>
-
-{% include gallery id="gallery-prea" caption="Pre-Assignment Screenshots of TUMO Box built in ShapesXR." %}
 
 ### Next steps and Thoughts
 
