@@ -62,15 +62,19 @@ At first, I was thinking in making a Museum on Schooling & Education, because Ed
 
 But this month I went to Armenia because we are opening the first TUMO center in Portugal - [TUMO Coimbra](https://coimbra.tumo.pt). So I changed the project idea to **Museums-through-the-Cloud**.
 
-For those that don't know what [TUMO](https://tumo.org/whatistumo) is, TUMO is a NGO based in Armenia with the goal of providing free-of-charge top-notch education for all teenagers in their spare time. Most recently, they began expanding their TUMO centers worldwide - and the first center in Portugal will open in my hometown Coimbra. I will work as workshop leader in game development. 
+For those that don't know what [TUMO](https://tumo.org/whatistumo) is, TUMO is a NGO based in Armenia with the goal of providing free-of-charge top-notch self-learning and project-based education for all teenagers in their spare time. Most recently, they began expanding their TUMO centers worldwide - and the first center in Portugal will open in my hometown Coimbra. I will work as workshop leader in game development. 
 
 During the week I was in Armenia, our team led by [Filipa Cunha](https://www.linkedin.com/in/filipasantoscunha/) visited the global headquarters and had intensive training in how TUMO works and what is expected from each of us. I believe all of us left in love with the project.
 
-There are so many interesting things to discuss about TUMO, but one of the most inspiring parts of the project are the **TUMO boxes. For remote locations in Armenia, they are setting up containers with Internet access, solar panels and computers in which groups of teenagers can make their self-learning activities in their favourite modules**. Once they complete a set of activities they have free transportation from the Box to the nearest center (in a city nearby) to have Workshops with Industry Leaders.
+There are so many interesting things to discuss about TUMO, but one of the most inspiring parts of the project are the **TUMO boxes. For remote locations in Armenia, they are setting up containers with Internet access, solar panels and computers in which groups of teenagers can make their self-learning activities in their favourite modules**. Once they complete a set of activities they have free transportation from the Box to the nearest center (in a city nearby) to have Workshops with Industry Leaders. In the end of these workshops, the students have projects that are included in an online portfolio and they can show them to anyone.
 
-I wondered about **how we can expand learning for boxes that are too far away from other main centers, and could these Boxes become learning centers for the remaining population.** 
+Their ultimate goal is by 2026 to make sure a 60000 Armenian teenagers (a third approximately) are enrolled in a TUMO center at a time. With this goal completed, it should be possible that all teenager armenians can be part of TUMO at least once and begin their innovative STEM portfolio (the program usually takes 2-3 years to complete, and teenagers have 6/9 years to enter in the school).
+
+I wondered about **how we can expand learning for boxes that are too far away from other main centers, and could these Boxes become learning centers for the remaining population. This is specially important for TUMO International projects in extremely poor and remote locations, that may not have industry leaders nearby.** 
 
 And that is what I focused on this assignment.
+
+![Locations of TUMO Centers (circles) and boxes (squares) in Armenia currently]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/03/TUMO-Armenia-Map.png)
 
 ### Development
 
@@ -124,9 +128,15 @@ In ShapesXR:
 
 Again, you may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).
 
+### Feedback
+
+From my colleague [Kathleen](https://www.linkedin.com/in/kathleensiennakelly/), in the XR Design Fellowship course:
+
+![Kathleen's feedback on her experience in introducing XR to teenagers]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/03/pre-assignment-Kathleen-feedback.png)
+
 ### Next steps and Thoughts
 
-For next steps, I actually made a small museum exhibit in the space. See my [Post-Assignment](../xr-design-fellowship-module-03-post-assign/)!
+For next steps, I actually went a bit off-course after our mentorship session with Don Carson! See my [Post-Assignment](../xr-design-fellowship-module-03-post-assign/)!
 
 And watch my post on this month's module to know what we learned - [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
 
