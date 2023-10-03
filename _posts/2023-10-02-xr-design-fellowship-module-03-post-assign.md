@@ -92,7 +92,7 @@ gallery-shapes-presentation:
 
 ---
 
-## 02. Module 03 - Worldbuilding for XR Experience: Post-Assignment - TUMO Box (Story of a Workshop Session)
+## 02. Module 03 Post-Assignment - Worldbuilding for XR Experience: TUMO Box (Story of a Workshop Session)
 
 You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
 

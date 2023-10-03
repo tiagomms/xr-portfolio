@@ -28,7 +28,7 @@ Here is XR Bootcamp's glimpse into the module:
 **Live Session from Daniel Marqusee**
 ![Live Session - From Flat to Spatial]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/01/live-session.jpeg)
 
-## Pre-assignment
+## 01. Pre-assignment
 
 This was our "homework" before the live session with Daniel. 
 

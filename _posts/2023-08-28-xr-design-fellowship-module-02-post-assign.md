@@ -18,7 +18,7 @@ header:
 
 ---
 
-## 02. Module 02 - Concept Ideation and XR Storyboarding: Post-Assignment
+## 02. Module 02 Post-Assignment - Concept Ideation and XR Storyboarding: Virtual Bowls
 
 If you haven't read yet, please check the pre-assignment as it contains this project background story - [Pre-Assignment Page](../xr-design-fellowship-module-02-pre-assign/).
 

@@ -39,7 +39,7 @@ gallery-prea:
 
 ---
 
-## 02. Module 03 - Worldbuilding for XR Experience: Pre-Assignment
+## 01. Module 03 Pre-Assignment - Worldbuilding for XR Experience: TUMO Box
 
 You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
 
