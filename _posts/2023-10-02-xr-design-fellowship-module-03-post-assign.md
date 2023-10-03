@@ -101,10 +101,21 @@ If you haven't read yet, please check the pre-assignment as it contains this pro
 For more information on the module, please check the main article coming soon [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
 
 
+### Recap
+
+TUMO is a NGO from Armenia that developed an innovative education system for teenagers to learn STEM activities after school hours. Currently, they are enrolling over 20000 teenagers in their national centers and boxes, and by 2026 they hope to expand to 60000. 
+They are also cooperating with international teams to open TUMO centers worldwide - one of them TUMO Coimbra in my hometown, where I will work as Game Development Workshop Leader.
+
+One of the inspiring parts of the project are the TUMO boxes. The TUMO Boxes are set in remote locations - they have computers, solar panels, sanitation and include free transportation from nearby villages there. In these boxes, teenagers do their self-learning activities just like in the major city centers, and once they complete a set of them, TUMO manages to give them free transportation to the nearest city center to do Workshops with experts in the field. In the end of the workshops, as the city students, all have projects that are included as an online portfolio that they can show them to anyone.
+
+My initial project idea was to expand these boxes with XR devices, so that they could become museums or have enhanced learning opportunities. Since these boxes are quite standard and have the same dimensions, it could be technically possible to set these "museum" experiences remotely. This may be specially important for TUMO International projects in extremely poor and remote locations, that may not have industry leaders nearby or conditions/funding to open a major TUMO Center.
+
+On my pre-assignment, I made a TUMO box in ShapesXR in a montaineous region, inspired by an actual TUMO Box in Armenia. You can read more about TUMO on my [previous post](../xr-design-fellowship-module-03-pre-assign/) and [their website](https://tumo.org/whatistumo).
+
 
 ### Challenge
 
-On September 29th we had a mentorship session with this month's expert - [Don Carson](https://www.linkedin.com/in/don-carson-447339/). This is the feedback I received from my pre-assignment.
+On September 29th we had a mentorship session with this month's expert - [Don Carson](https://www.linkedin.com/in/don-carson-447339/). I showed to all my pre-assignment, and this is the feedback I received:
 
 > Instead of focusing on the surroundings, focus more on what would happen if there is a place for TUMO Boxes for XR? How should the new TUMO boxes look like? How would people consume these experiences? This is what TUMO would be interested in.  
 
@@ -137,7 +148,7 @@ My whole ShapesXR pitch become: what would happen if all students, workshop lead
 
 I entered a bit in the realms of sci-fi to realize it can't be done yet, but I decided to at least have a prototype of the vision anyway. **All the work developed was for the TUMO Boxes/ remote locations in mind, and I tried to focus a little in all personas viewpoints (students, WL leaders and coaches).**
 
-**My aim in these 2 days was how could I make the workshop leader look like he was actually in that space able to help students one-by-one and talk to everyone. I thought how could I make it "real" (as similar as now in the TUMO centers with experts). But I didn't think what could be different - next time I hope :) .**
+**My aim in these 2 days was how could I make the workshop leader look like he was actually in that space able to help students one-by-one and talk to everyone. I thought how could I make it "real" (as similar as now in the TUMO centers with experts). But I didn't think what could be different - I hope next time I will! :)**
 
 The entire presentation is this webpage and the ShapesXR space, which you can see [here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).
 
@@ -168,11 +179,11 @@ Next stage would be to work on the feasibility of every single step, and divide 
 
 Something I did not expand was how workshops/labs with XR glasses in immersive settings may be truly amazing and unique experiences. That first go should be tried out in workshops and labs inside TUMO centers with all technology available, people and expertise. Then, start to iteratively advance these tests on remote locations. 
 
-I am going to ask for feedback and show to my colleagues at TUMO.
+Anyway, I am going to ask for feedback and show to my colleagues at TUMO.
 
-#### Equipment for Boxes (after work was completed)
+#### Equipment for Boxes (after ShapesXR mockup was done)
 
-Something I begin to naturally think is all equipment that may be needed and required to pull this off, since these are physical spaces and we have to naturally take into account all factors: connectivity, software, sound, image, and so forth.
+Something I begin to naturally throughout the process was all the equipment that may be needed to pull this off. Since these are physical spaces, we have to naturally take into account all factors: connectivity, software, sound, image, and so forth.
 
 - **Screen sharing**: workshop leader must have access to all screens inside the space at its attended timeslot. Students should see workshop leader's screen in one of the two wall (with XR glasses the "screen" can be projected in any place that is easier for students to read).
 
@@ -201,7 +212,7 @@ And just the glasses:
   - For learning labs/workshop sessions, which are always in front of a PC, tethered devices are ok. If we want to expand to other learning experiences, then standalone headsets make more sense. 
   - *The most important part point: students should be able to either see real PC screens without eye strain, and have the ability to flick the headset up but with the headset still operating and sending tracking and stereo sound*. 
   - optional (very basic hand tracking for the WL)
-  - So far and due to its open-source nature: [Lynx R-1](https://www.lynx-r.com/) currently appears to be the best bet all-around headset for developing prototypes for this (access to cameras, handtracking and so on). It also possesses the ability the flick the headset up.
+  - So far and due to its open-source nature: [Lynx R-1](https://www.lynx-r.com/) currently appears to be the best bet all-around headset for developing prototypes for this (access to cameras, handtracking and so on). It also possesses the ability the flick the headset up, unlike the Meta Quest 3 which is a better headset overall.
 
 - **Tracking and Modelling**: If AR glasses without positional tracking are used by students, then tracking their position and the space becomes required (even if headsets have positional tracking, SteamVR lighthouses may help). In addition, the WL should have a 3D reconstruction of the environment in which it will navigate, hear and talk. I know there has been many advances in computer vision in this area, but haven't had time to dwell on research.
 
