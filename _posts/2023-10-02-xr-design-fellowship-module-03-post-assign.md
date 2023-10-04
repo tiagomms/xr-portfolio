@@ -13,7 +13,7 @@ tags:
 toc: true
 header:
   video:
-    id: 870635106 
+    id: 871166833
     provider: vimeo 
 gallery-equipment:
   - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/03/clearone-360-mic.jpeg
@@ -168,9 +168,11 @@ Here is the story:
   - clean the headsets
   - I had written that he may only need a tablet; however it makes more sense they have XR Glasses as well. Information like: battery level, seeing the WL, and other things may be important for troubleshooting
 
-18 stages, around 10 viewpoints - it is quite a lot to detail to pass the idea. The header video is a walkthrough of the experience in ShapesXR. Below, you can see some images of this mockup.
+18 stages, around 10 viewpoints - it is quite a lot to detail to pass the idea. The header video is a walkthrough of the experience in ShapesXR. Below, you can see some images of this mockup, and the actual silent walkthrough in shapes XR with the text messages.
 
 {% include gallery id="gallery-shapes-presentation" caption="TUMO Box with XR headsets - Images of mockup made in ShapesXR." %}
+
+{% include video id="870635106" provider="vimeo" %}
 
 
 ### Next steps 
