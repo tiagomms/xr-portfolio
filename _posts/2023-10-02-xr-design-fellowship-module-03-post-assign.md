@@ -92,7 +92,7 @@ gallery-shapes-presentation:
 
 ---
 
-## 02. Module 03 Post-Assignment - Worldbuilding for XR Experience: TUMO Box (Story of a Workshop Session)
+## 02. Module 03 Post-Assignment - Worldbuilding for XR Experience: TUMO Box (Design Idea for Remote set up & provision of Workshop Sessions through XR glasses)
 
 You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
 
@@ -132,6 +132,10 @@ I thought I was doing something small first, but I realized it is a very big end
 Since I thought I had done most of the heavy worldbuilding work previously, I continue with my ShapesXR mockup to little by little realize the limitations of my work. But hey, that is part of the process!
 
 The work is left unfinished but, I feel glad that I tried to help this amazing education NGO. 
+
+#### 00 - Target Audience
+
+TUMO Board, International & Content team - world education experts trying to reach and provide world class STEM education to teenagers. This mockup was thought for them.
 
 #### 01 - Personas
 
@@ -249,7 +253,8 @@ I hope to keep looking at this from time to time, and help TUMO provide a better
 
 ### Side-note
 
-My thoughts and prayers go to the people in Artsakh and Armenia in this difficult time. 
+My thoughts and prayers go to the people in the region of Nagorno-Karabach and Armenia in this difficult time. 
 
 I hope that our work at TUMO may help many teenagers worldwide, and bring a light of empathy, love and dignity to every person learning and making the world a better place.
 
+If you wish to understand more of the conflict at hand, I recommend this [article from NYT](https://www.nytimes.com/2023/10/09/opinion/nagorno-karabakh-russia-turkey.html).

@@ -39,7 +39,7 @@ gallery-prea:
 
 ---
 
-## 01. Module 03 Pre-Assignment - Worldbuilding for XR Experience: TUMO Box
+## 01. Module 03 Pre-Assignment - Worldbuilding for XR Experience: TUMO Box Mockup creation
 
 You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
 
@@ -142,6 +142,8 @@ And watch my post on this month's module to know what we learned - [Module 03 - 
 
 ### Side-note
 
-Our thoughts and prayers go to the people in Artsakh and Armenia in this difficult time. 
+Our thoughts and prayers from TUMO Coimbra go to the people in Artsakh and Armenia in this difficult time. 
 
 We hope that our work at TUMO may help many teenagers worldwide, and bring a light of empathy, love and dignity to every person learning and making the world a better place.
+
+If you wish to understand more of the conflict at hand, I recommend this [article from NYT](https://www.nytimes.com/2023/10/09/opinion/nagorno-karabakh-russia-turkey.html).
