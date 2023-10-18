@@ -216,7 +216,7 @@ And just the glasses:
     - not noise cancelling because it is still important to hear your colleagues
   - Microphones must be switched off or removed due to feedback, as mentioned above. 
   - For learning labs/workshop sessions, which are always in front of a PC, tethered devices are ok. If we want to expand to other learning experiences, then standalone headsets make more sense. 
-  - *The most important part point: students should be able to either see real PC screens without eye strain, and have the ability to flick the headset up but with the headset still operating and sending tracking and stereo sound*. 
+  - *The most important point: students should be able to either see real PC screens without eye strain, and have the ability to flick the headset up but with the headset still operating and sending tracking and stereo sound*. 
   - optional (very basic hand tracking for the WL)
   - So far and due to its open-source nature: [Lynx R-1](https://www.lynx-r.com/) currently appears to be the best bet all-around headset for developing prototypes for this (access to cameras, handtracking and so on). It also possesses the ability the flick the headset up, unlike the Meta Quest 3 which is a better headset overall.
 
@@ -228,6 +228,14 @@ And just the glasses:
 
 {% include gallery id="gallery-equipment" caption="Possible Equipment for future TUMO Boxes." %}
 
+### Feedback (update on October 12th)
+
+I sent my work to Don Carson once I completed the other post about the module. He was very kind and provided very valuable feedback.
+He focused mostly on the profound ways XR can change education and content creation which we should try to achieve.
+
+![Don's Feedback on post assignment]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/03/don-feedback-post-assignment.png)
+
+In the future, I hope I can explore these two very concrete examples and more.
 
 ### Conclusion
 
