@@ -98,7 +98,7 @@ You may experience the assignment in ShapesXR if you want - [click here](https:/
 
 If you haven't read yet, please check the pre-assignment as it contains this project background story - [Pre-Assignment Page](../xr-design-fellowship-module-03-pre-assign/).
 
-For more information on the module, please check the main article coming soon [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
+For more information on the module, please check the main article [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
 
 
 ### Recap

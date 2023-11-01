@@ -43,7 +43,7 @@ gallery-prea:
 
 You may experience the assignment in ShapesXR if you want - [click here](https://shapes.app/space/view/72a6fb6b-f2e5-4aa3-ba9c-22aa843a2fb4/7da5ez55).  
 
-For more information on the module, please check the main article coming soon [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
+For more information on the module, please check the main article [Module 03 - Worldbuilding for XR Experience](../xr-design-fellowship-module-03/).
 
 This assignment has a second part - please check it out to see the final product - [Post-Assignment](../xr-design-fellowship-module-03-post-assign/)!
 
