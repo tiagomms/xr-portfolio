@@ -13,7 +13,7 @@ tags:
 toc: true
 header:
   video:
-    id: 880245809
+    id: 884960479
     provider: vimeo 
 gallery-figma-layouts:
   - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/04/01a-UI-Figma.png
@@ -132,11 +132,9 @@ I envisioned 3 main moments for this app:
 - **Sync event with loved ones** - everyone gathers and visits those places for social interaction
 - **Past Memories (async)** - revisit on your own
 
-You can see them on the videos below (the first is creating a memory, the second video contains both the live event and past memory recap).
+You can see them again on the video below.
 
-{% include video id="880245706" provider="vimeo" %}
-
-{% include video id="870635106" provider="vimeo" %}
+{% include video id="884960479" provider="vimeo" %}
 
 In case you are interested, the quick UI mockups were made in Figma based on the [Float Grid Template](https://docs.floatgrids.com/getting-started/overview). You can see them in more detail below.
 
