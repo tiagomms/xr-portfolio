@@ -166,7 +166,14 @@ Regarding the 3D objects, their functionality and aesthetics should reflect on w
 
 ### Feedback
 
-*coming soon*
+This was the feedback I got from our top expert - Paul Hoover. The main thing was the creation of mementos could be done also before the event (as surprises or something like it) and it makes total sense. 
+
+At the time I had separated the video in 2 parts - but with his feedback I realized it was best to have just one bigger video.
+
+Thank you Paul :)
+
+![Paul Hoover's feedback on the project]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/04/Feedback-PaulHoover.png)
+
 
 ### Next steps
 
@@ -196,7 +203,7 @@ Thank you for everyone that took their time making these assets and posted them 
 - [Camera & Tripod](https://www.turbosquid.com/3d-models/3d-camera-design-2022615)
 - [Picture Frame](https://www.turbosquid.com/3d-models/free-frame-desktop-picture-3d-model/1059351)
 
-And the music for the videos (I do not have copyrights for these songs, but they were appropriate for what I was trying to convey):
+And the music for the videos (I do not have copyrights for these songs nor asked permission, but they were super appropriate for what I was trying to convey):
 - Patrick Watson: Words in the Fire
 - Minski: Heaven
 
