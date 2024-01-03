@@ -222,17 +222,26 @@ I am unsure a leaderboard against others makes sense, but tracking your effort a
 
 ### Feedback
 
-*coming soon*
+Once I completed the assignment, I asked for [Mo Sayyar's](https://www.linkedin.com/in/mohammadsayyar/) feedback through Linkedin. 
+With his permission, I copy our converstation.
+I really need to thank his availability and commitment on helping, especially after delivering the assignment past the supposed due date. 
 
+His and [Paul's](https://www.linkedin.com/in/pahoover/) work really inspired each of us to try new things.
+
+![Feedback from Mo Sayyar on my work - part 01]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/05/mo-feedback-converstation-part01.png)
+![Feedback from Mo Sayyar on my work - part 02]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/05/mo-feedback-converstation-part02.png)
 
 ### Next steps
+- Incorporate [Mo Sayyar's](https://www.linkedin.com/in/mohammadsayyar/) feedback into the game: 
+  - **Calibration: Make it more fun - think of ways to improve the porch setup and its reliability**
+  - Instead of a neighbour use different type of birds for a shorter learning curve (and who knows sentient AI mecha-birds)
+  - Work with a trainer on other kind of exercises we can do lying down
 - Issues with the Quest:
   - Develop ways to make the Quest playable lying down - this was actually a problem when testing: the Quest menus expect you to be an upright position, not lying down. Whenever I stopped testing, the menus would pop-up in very strange places.
 - ShapesXR: 
   - **Iterate the First-Person demo more, instead of the 3rd person dummy - this way other people may test it out.** This was something I only realized after finishing the dummy setup.
   - Improve on MR testing using ShapesXR
 - The actual game: 
-  - **Think of ways to improve the porch setup and its reliability**
   - Improve UI
   - Add timers and game counters while in-game
   - Test adding an exercise (abs exercise of touching your ankles) to clean the crumbs and water away from balcony
@@ -261,7 +270,7 @@ Audio:
 
 *Thank you Claudia for providing exercises for this work - without you I would have been stuck.*
 
-*Thank you Mo, Paul and the XR Bootcamp team for providing this opportunity to learn from you. It has been a privilege!*
+*Thank you [Mo](https://www.linkedin.com/in/mohammadsayyar/), [Paul](https://www.linkedin.com/in/pahoover/) and the [XR Bootcamp team](https://xrbootcamp.com/) for providing this opportunity to learn from you. It has been a privilege!*
 
 *Last but not least, this is for you grandad and grandmom. I know you won't make use of this, but I bet it can make you smile a little. Stay as healthy as possible. Thank you for everything*
 
