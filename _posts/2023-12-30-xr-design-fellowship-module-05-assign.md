@@ -106,9 +106,9 @@ You may experience the assignment in ShapesXR if you want, click below. I accept
 
 ### TL;DR
 
-This month's goal was to develop a MR Fitness experience. **I focused on exercises to make people fit while in Bed (hence FitInBed). "Get out my porch" would be the first game of several - focused on games with a fitness component for people to move around within their beds.**
+This month's goal was to develop a MR Fitness experience. **I focused on exercises to make people fit while in Bed (hence FitInBed). "Get out my porch" would be the first game of several - focused on games with a fitness component for people to move around within their beds. I wanted to do something for people that can't barely walk (due to muscular degeneration or inactivity after surgeries) and thus have a lot of limitations when it comes to exercising. The fact they stay in a bed without moving much leads to higher chances of respiratory infections, and thus exercises would certainly help on that regard**.
 
-I really didn't have much time for this assignment. I was heavily focused on a job delivery and on the TUMO workshops for teenagers from ages 12-18 in game development. I mostly focused on making a quick prototype that was fun and engaging, despite its many flaws.
+I really didn't have much time for this assignment. I was heavily focused on a job delivery and on the TUMO workshops for teenagers from ages 12-18 in game development. I mostly focused on making a quick prototype that was fun and engaging, despite its many flaws. Making it fun would also expand the game to a wider audience that maybe likes to be lying on the couch or bed.
 
 Anyway, I think the idea has some potential and FitInBed games could actually make some sense in helping people in need and make room for people to support their loved ones remotely.
 
@@ -249,6 +249,8 @@ His and [Paul's](https://www.linkedin.com/in/pahoover/) work really inspired eac
   - **Actually make stages for the multiplayer setup**
 - Accessibility:
   - If this game would be used in a hospital setting, a lot of more design thinking is required to make the game playable for people on serum, tubes, catheters and etc.
+  - Test the game on couches seems important
+  - Capture 3D data of multiple environments to scale the actual project
   - Focus on other exercises with funny game concepts
 
 
