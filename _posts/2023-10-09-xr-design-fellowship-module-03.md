@@ -11,6 +11,8 @@ tags:
   - XR Bootcamp
   - ShapesXR
 toc: true
+header:
+  image: /assets/images/xr-bootcamp/xr-design-fellowship/module/03/live-session.jpeg
 
 ---
 
@@ -27,9 +29,6 @@ Our project was to create a XR museum experience. Instead of that, I tried to pr
 - [Post-Assignment: TUMO Box: Design Idea for Remote set up & provision of Workshop Sessions through XR glasses](../xr-design-fellowship-module-03-post-assign/)
 
 On Sep 20th we had an amazing live session with [Don Carson](https://www.linkedin.com/in/don-carson-447339/) (Art Director @ Mighty Coconut) in which he gave us a sense of how environmental storytelling is done in the industry from start to end.
-
-**Live Session from Don Carson**
-![Live Session: XR Worldbuilding & Environmental Storytelling - Case Study: Theme Parks with Don Carson]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/03/live-session.jpeg)
 
 
 ## Live Session

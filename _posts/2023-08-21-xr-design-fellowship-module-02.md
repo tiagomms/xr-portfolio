@@ -11,6 +11,8 @@ tags:
   - XR Bootcamp
   - ShapesXR
 toc: true
+header:
+  image: /assets/images/xr-bootcamp/xr-design-fellowship/module/02/live-session.png
 
 ---
 
@@ -32,9 +34,6 @@ Here are this module's learning goals:
 - (Post-Assignment) Incorporate the design techniques mentioned in the lecture into your prototype refinement for the post-assignment.
 
 This month's live session was with the great [Paul Hoover - Head of Design for ShapesXR](https://www.linkedin.com/in/pahoover). We learned a lot from him.
-
-**Live Session from Paul Hoover**
-![Live Session - Gaze & Pinch Interactions in Smart Homes]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/02/live-session.png)
 
 ## Live Session
 

@@ -1,6 +1,6 @@
 ---
 title: "XR DF Module 05 - Mixed Reality and Co-location Experiences"
-date: 2023-01-04T20:00:30+01:00
+date: 2024-01-04T20:00:30+01:00
 categories:
   - blog
 tags:
@@ -11,6 +11,8 @@ tags:
   - XR Bootcamp
   - ShapesXR
 toc: true
+header:
+  image: /assets/images/xr-bootcamp/xr-design-fellowship/module/05/live-session.jpeg
 
 ---
 
@@ -28,10 +30,7 @@ Our project was to create a MR fitness experience with real-time feedback and in
 You can find more information and see the project development in this post:
 - [Module 05 Assignment - Designing MR Fitness Game: FitInBed Game - Get out of my porch](../xr-design-fellowship-module-05-assign/)
 
-On Nov 8th we had an amazing live session with [Mo Sayyar](https://www.linkedin.com/in/mohammadsayyar/) (Design Leader and Former Design Director @ FitXR).
-
-**Live Session from Mo Sayyar & Paul Hoover**
-![Live Session: Designing MR Apps with Quest 3]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/05/live-session.jpeg)
+On Nov 8th we had an amazing live session with [Mo Sayyar](https://www.linkedin.com/in/mohammadsayyar/) (Design Leader and Former Design Director @ FitXR). [Paul Hoover](https://www.linkedin.com/in/pahoover/) joined at the end of the Q&A session for a few more insights.
 
 
 ## Live Session

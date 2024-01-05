@@ -11,6 +11,8 @@ tags:
   - XR Bootcamp
   - Bezel
 toc: true
+header:
+  image: /assets/images/xr-bootcamp/xr-design-fellowship/module/01/live-session.jpeg
 
 ---
 
@@ -25,8 +27,8 @@ Here is XR Bootcamp's glimpse into the module:
 * The journey continues with a deep-dive into the Design Critique session, focusing on critical elements like Field of View (FOV), Ergonomics, and Depth. This session will cement your understanding of spatial design.
 * Feast your eyes as our guest lecturer unveils the Bezel's visionOS Demo. This showcase will give you a glimpse into the cutting-edge creation in XR design.
 
-**Live Session from Daniel Marqusee**
-![Live Session - From Flat to Spatial]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/01/live-session.jpeg)
+This month's live session was with the super fun [Daniel Marqusee - XR Designer for Bezi](https://www.linkedin.com/in/daniel-marqusee-6665694b/). We learned a lot from him.
+
 
 ## 01. Pre-assignment
 
@@ -66,6 +68,8 @@ In the end, I made a very simple prototype:
 {% include video id="845706037?h=80eecad37d&dnt=true" provider="vimeo" %}
 
 ## Live Session
+
+![Live Session - From Flat to Spatial]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/01/live-session.jpeg)
 
 [Daniel Marqusee](https://www.youtube.com/c/DanielMarqusee) made a great session and was super helpful with his feedback and insight. Here are a few takes of the session:
 
