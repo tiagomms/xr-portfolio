@@ -78,33 +78,34 @@ In the end, it became a "code-based" prototyping project. Here are some of the m
 
 {% include gallery id="gallery-shots" caption="Screenshots of the actual in game experience" %}
 
-### Issues
-- Hardware:
-  - Only works with Meta Quest. 
-  - Next stage would be use to Unity XR Framework to expand usage or Vision Pro
+## Issues
+### Hardware:
+- Only works with Meta Quest. 
+- Next stage would be use to Unity XR Framework to expand usage or Vision Pro
 
-- Technical issues (the biggest ones and that is why it took so long to finish, and didn't have time to focus so much on design improvement):
+### Technical issues 
 
-  - Bezi Unity bridge: 
-    - is still a beta version - practically all state data is not passed (except position and rotation).
-    - The animations are not ready to be deployed, you essentially have very long Lists of state and interaction data in the inspector.
-    - Didn't find documentation in how to quickly get the animation that I want at the certain moment. So I had to develop scripts to trigger my main events. But once it worked it was exhilarating.
-    - The bridge also assigned the inverted x position values for some unknown reason. 
+**The biggest ones and that is why it took so long to finish, and didn't have time to focus so much on design improvement:**
+- Bezi Unity bridge: 
+  - is still a beta version - practically all state data is not passed (except position and rotation).
+  - The animations are not ready to be deployed, you essentially have very long Lists of state and interaction data in the inspector.
+  - Didn't find documentation in how to quickly get the animation that I want at the certain moment. So I had to develop scripts to trigger my main events. But once it worked it was exhilarating.
+  - The bridge also assigned the inverted x position values for some unknown reason. 
 
-  - Meta XR Building Blocks:
-    - they are very nice, but there is a fundamental lack of documentation on Meta's scripts and in the examples. 
-    - Despite the fact they are very cool to use, to deploy them still requires a Unity developer's knowledge. 
+- Meta XR Building Blocks:
+  - they are very nice, but there is a fundamental lack of documentation on Meta's scripts and in the examples. 
+  - Despite the fact they are very cool to use, to deploy them still requires a Unity developer's knowledge. 
 
-  - Meta XR: 
-    - The development in Macs is still very painful. Not even the Meta's XR Simulator works there. Had to transition project to my old reliable beasty Windows.
+- Meta XR: 
+  - The development in Macs is still very painful. Not even the Meta's XR Simulator works there. Had to transition project to my old reliable beasty Windows.
 
-- Design:
-  - Grabbing and point/pinch logic works quite well
-  - Pokeable items are bit glitchy
-  - The snapping part is the part that requires some improvements: 
-    - I found out dragging the model between states is not as intuitive as I would hope. However if you stop dragging, I coded in a way to move it again to default position after less than a second.
-    - I created then 2 snap areas to switch between states so it would be easier to drag the object to desired state. 
-    - Probably adding text to them: Edit Mode, Menu Mode would help immensely users
+### Design:
+- Grabbing and point/pinch logic works quite well
+- Pokeable items are bit glitchy
+- The snapping part is the part that requires some improvements: 
+  - I found out dragging the model between states is not as intuitive as I would hope. However if you stop dragging, I coded in a way to move it again to default position after less than a second.
+  - I created then 2 snap areas to switch between states so it would be easier to drag the object to desired state. 
+  - Probably adding text to them: Edit Mode, Menu Mode would help immensely users
 
 ### Feedback
 
