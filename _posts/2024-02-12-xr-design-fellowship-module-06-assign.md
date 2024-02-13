@@ -61,7 +61,7 @@ To see the original project and explainer, you can access to the [Module 01's pr
 </div>
 
 
-Making as close as possible to my Bezi's prototype turned out a bad idea because the bridge does not store most animation data nor their order, so I had to invent and code ways to make it work. In the end, I didn't start the development from a Shapes project, because I had already started this one. 
+Making a Unity prototype as close as possible to my Bezi's prototype turned out to be a bad idea because the Bezi's integration does not send to Unity most animation data nor their order, so I had to invent, manually add data, and code ways to make it work. I became frustrated with the development process, and thought of changing into a ShapesXR integration project. But, I had already started this one. 
 Thus, this became my "code-based" prototyping project for Bezi. Here are some of the main things I did:
 
 - Imported [Bezi's project from Module 01](../xr-design-fellowship-module-01-post-assignment/) into unity with Bezi's Unity Bridge package.
