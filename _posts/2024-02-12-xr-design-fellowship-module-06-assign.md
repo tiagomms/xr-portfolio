@@ -31,7 +31,6 @@ gallery-shots:
     alt: "Switching to edit mode"
     title: "Switching to edit mode"
 
-
 ---
 
 ## Module 06 - Unity for prototyping - Turn previous project into an interactive prototype for Meta Quest
