@@ -48,9 +48,9 @@ You may access the [project's repo here](https://github.com/tiagomms/xrdf-module
 ### Challenge
 
 The goal of this assignment was to add interactivity to one of our previous ShapesXR/Bezi prototypes using Meta Quest Building Blocks. 
-I choose the Module 01 Bezi's project, because I thought it would be the simplest one. You can see the video how it turned out.
+I choose the Module 01 Bezi's project, because this was my first course project, the idea was simple and it would be a way to review Bezi. Watch the video above to see how it turned out.
 
-You can access to the [Module 01's project](../xr-design-fellowship-module-01-post-assignment/) or see the video and actually play with bezi prototype below.
+To see the original project and explainer, you can access to the [Module 01's project page](../xr-design-fellowship-module-01-post-assignment/) and see its video or actually play with the prototype below made in Bezi.
 
 {% include video id="848531256?h=435fa395d0&dnt=true" provider="vimeo" %}
 
@@ -61,53 +61,65 @@ You can access to the [Module 01's project](../xr-design-fellowship-module-01-po
 </div>
 
 
-Since Bezi's is all about interactions and animations it turned out a bad idea, but when I realized that too late so I continued working it out. 
-In the end, it became a "code-based" prototyping project. Here are some of the main things I did:
+Making as close as possible to my Bezi's prototype turned out a bad idea because the bridge does not store most animation data nor their order, so I had to invent and code ways to make it work. In the end, I didn't start the development from a Shapes project, because I had already started this one. 
+Thus, this became my "code-based" prototyping project for Bezi. Here are some of the main things I did:
 
 - Imported [Bezi's project from Module 01](../xr-design-fellowship-module-01-post-assignment/) into unity with Bezi's Unity Bridge package.
-- Bezi's imported project did not have the full state and animation data (just position and rotation). Had to overwrite Bezi's scripts to include scale, fade In, fade Out, material changes
-  - All properties added in BeziSceneGraph classes: State, Animation, Scale, BeziVector3, MaterialCustomProperties to change the Bezi's material shaders).
+- Bezi's imported project did not have the full state and animation data (just position and rotation). However it included data from all events and their separate IDs and to which state they would pass to. So I used this to overwrite Bezi's scripts to include scale, fade In, fade Out and material changes.
+  - All properties added in BeziSceneGraph classes: State, Animation, Scale, BeziVector3, MaterialCustomProperties to change the Bezi's material shaders.
 - Developed script to deploy Bezi animations based on the Bezi behavior object and Bezi Interaction id's (CustomBeziTriggerAnimation).
+- Each time you imported bezi prefab, the bezi unity bridge only provided the current state of your prototype on the website's edit mode. So to test each interaction individually and narrow down the development, I started importing the bezi prefab in each main step: 
+  - just having the keyboard ovelay, 
+  - then have the dock open and click on the app, 
+  - then having the app open and switch between normal and edit mode.
+  - In the end, I merged all these interactions into a single Bezi prefab that started when you already had your glasses on and saw the overlay on the keyboard to open/close the dock.
+
+{% include gallery id="gallery-shots" caption="Screenshots of each prototype stage. I would import the bezi prefab for each stage to narrow down the development for each interaction, then merged it all in one." %}
+
 - Develop script to toggle between Bezi animations (open/close dock, open/close app) (ToggleDock - terrible name but didn't change to not lose data in the inspector afterwards)
 - Using Meta's building blocks, added the ability to poke, point, pinch, grab. 
   - Added the respective building blocks to make objects interactive (example: open/close dock used a pokeable item building block).
   - Used Meta's Interactable and Pointable Interactable Unity Event Wrapper to trigger sounds, and events on Hover, Select and Unselect.
 - Based on Meta's distance grab and snap example scenes, created my own logic to distance grab the app's object and snap it between the App Normal and Edit states - perform this by triggering Unity Actions between changing states.
-  - I coded in a way that I could add more states if the app needed, based on dragging and letting it snap to location
+  - Coded it in a way that I could add more states if the app needed, based on dragging and letting it snap to location
 
-{% include gallery id="gallery-shots" caption="Screenshots of the actual in game experience" %}
 
 ## Issues
 ### Hardware:
 - Only works with Meta Quest. 
-- Next stage would be use to Unity XR Framework to expand usage or Vision Pro
+- Next stage would be use to Unity XR Framework to expand usage or to Vision Pro with eye tracking
 
 ### Technical issues 
 
-**The biggest ones and that is why it took so long to finish, and didn't have time to focus so much on design improvement:**
+**There were a lot of them and that is why it took so long to finish - thus I didn't have time to focus so much on design improvement:**
 - Bezi Unity bridge: 
   - is still a beta version - practically all state data is not passed (except position and rotation).
   - The animations are not ready to be deployed, you essentially have very long Lists of state and interaction data in the inspector.
   - Didn't find documentation in how to quickly get the animation that I want at the certain moment. So I had to develop scripts to trigger my main events. But once it worked it was exhilarating.
-  - The bridge also assigned the inverted x position values for some unknown reason. 
+  - The bridge also assigned the inverted x position values for some unknown reason, so I added a method to do this for me. 
 
 - Meta XR Building Blocks:
   - they are very nice, but there is a fundamental lack of documentation on Meta's scripts and in the examples. 
   - Despite the fact they are very cool to use, to deploy them still requires a Unity developer's knowledge. 
 
 - Meta XR: 
-  - The development in Macs is still very painful. Not even the Meta's XR Simulator works there. Had to transition project to my old reliable beasty Windows.
+  - The development in Macs is still very painful. Not even the Meta's XR Simulator works there. Had to transition project to my old reliable beasty Windows to test development in play mode.
 
 ### Design:
 - Grabbing and point/pinch logic works quite well
-- Pokeable items are bit glitchy
+- Pokeable items are a bit glitchy (then again it is normal for small items due to capturing hand's accurate depth is a hard problem)
 - The snapping part is the part that requires some improvements: 
   - I found out dragging the model between states is not as intuitive as I would hope. However if you stop dragging, I coded in a way to move it again to default position after less than a second.
   - I created then 2 snap areas to switch between states so it would be easier to drag the object to desired state. 
   - Probably adding text to them: Edit Mode, Menu Mode would help immensely users
+
 
 ### Feedback
 
 (coming soon)
 
 
+### Conclusion
+
+If I knew what I knew today, I would have done the full prototype from ShapesXR because the integration all ready provides each stage. Plus animatino data is way harder then static stages to handle. And I guess the code would have been easier (to go to a shapes prototype next stage, and possibly change view point (through teleport)).
+Then again, this project ended up unexpectedly to be a way of reviewing Meta's current SDKs and actually do a prototype from start to finish.
