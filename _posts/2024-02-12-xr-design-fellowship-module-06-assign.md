@@ -37,13 +37,13 @@ gallery-shots:
 
 ![Me actually playing my prototype in Unity]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/06/quest-shot02.png)
 
-You may access the [project's repo here](https://github.com/tiagomms/xrdf-module06-bezishapes-unityIntegration) or you can actually test the [project build by downloading this folder](https://drive.google.com/drive/folders/1GCG6kFadY4lRinV87lTmMSwp0Y0RXqgC?usp=sharing) into your Meta Quest. 
+You may access the [project's repo here](https://github.com/tiagomms/xrdf-module06-bezishapes-unityIntegration) or you can actually [test the project build by downloading this folder](https://drive.google.com/drive/folders/1GCG6kFadY4lRinV87lTmMSwp0Y0RXqgC?usp=sharing) into your Meta Quest. 
 
 ### Project build versions & hardware
 - Unity 2022.3.16f1
 - Meta XR SDK All-in-one 60.0.0
 - Bezi Unity Bridge 0.1.3
-- Meta Quest
+- Meta Quest (v2 onwards)
 
 ### Challenge
 
@@ -56,7 +56,7 @@ You can access to the [Module 01's project](../xr-design-fellowship-module-01-po
 
 <div class="responsive-video-container">
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-    <iframe src="https://bezel.it/x29xt3" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src="https://bezel.it/7ixmko" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
 </div>
 
