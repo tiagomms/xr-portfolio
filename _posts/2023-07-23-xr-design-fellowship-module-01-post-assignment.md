@@ -36,6 +36,10 @@ The prototype was done in Bezel to showcase a future development. This was the f
   </div>
 </div>
 
+## Update on February 2024
+
+**I created a Unity "code-based" prototype for the Meta Quest. You may check it out on [Module 06 post](../xr-design-fellowship-module-06-assign/).**
+
 ## Specifications
 ### Responsibilities
 Product Design
