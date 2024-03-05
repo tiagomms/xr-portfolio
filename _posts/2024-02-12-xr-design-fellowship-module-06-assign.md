@@ -116,8 +116,9 @@ Thus, this became my "code-based" prototyping project for Bezi. Here are some of
 
 ### Feedback
 
-(coming soon)
+From [Billy Kwok](https://www.linkedin.com/in/billykwokhk/), this month's module expert:
 
+![Very positive feedback from billy on this work]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/06/feedback-module06.png)
 
 ### Conclusion
 
