@@ -23,9 +23,9 @@ The goal of this course is to learn how to start prototype from lower to higher 
 Every wiki chapter will consist of a module with both assignments and how it is going so far. There are 12 modules, one for each month.
 You can see the modules above in the header.
 
-Disclaimer: Most notes you will read regarding the live session and module glimpses are taken or paraphrased directly from the experts that are showing us state-of-the-art XR Design or from the XR Design Fellowship team.  For me these notes are mostly a learning summary of what I have learned this month.
+Disclaimer: Most notes you will read regarding the live session and module glimpses are taken or paraphrased directly from the experts that are showing us state-of-the-art XR Design or from the XR Design Fellowship team.  For me these notes are mostly a learning summary of what I have learned that month.
 
-My work (besides learning, taking notes, etc) are really the assignments prototypes we need to do every month, in which I tend to get feedback from other XR Design colleagues and the experts themselves.
+My main focus (besides learning, taking notes, etc) are really the assignments prototypes we need to do every month, in which I tend to get feedback from other XR Design colleagues and the experts themselves.
 
 Hope you enjoy.
 
