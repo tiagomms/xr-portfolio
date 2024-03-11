@@ -31,7 +31,7 @@ We have been advancing in our XR prototyping work (it has been 8 months now!), b
 Since the module 06 took longer than expected, this module was supposed to be smaller. **Our goal was to create a simple Meta Augment for our room for entertainment, wellbeing or productivity. I focused on a simple meditation augment to help your meditation in MR passthrough.** You can find more information and see the project development in this post:
 - [Module 07 Assignment - Turn my room into a meditation center](../xr-design-fellowship-module-07-assign/)
 
-On February 22nd we had an amazing live session with [Aniol Masó](https://www.linkedin.com/in/aniolsaurinamaso/) (Former Senior XR Designer and Prototyper @ Masterpiece Studio). 
+On February 22nd we had an amazing live session with [Aniol Masó](https://www.linkedin.com/in/aniolsaurinamaso/) (Senior XR Designer and Prototyper @ Masterpiece Studio). 
 
 ## Live Session
 
