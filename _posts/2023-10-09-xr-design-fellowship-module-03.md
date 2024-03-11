@@ -18,6 +18,8 @@ header:
 
 Here is a glimpse of what I have learned during Module 03 of the XR Design Fellowship program!
 
+As usual, I am mostly paraphrasing experts and centralizing the learnings we get from them and the XR Design Fellowship team. For me this is mostly a learning summary of what I have learned this month.
+
 ## Glimpse of our module: XR Worldbuilding & Environmental Storytelling 
 
 In this module, we looked at XR design through a different lens of worldbuilding and environmental storytelling. XR Design Fellowship goal for this module was for us to set up our first workflow using tools for XR environment design, and understand the practices of environment design through worldbuilding and prototyping.

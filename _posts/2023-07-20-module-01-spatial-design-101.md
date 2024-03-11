@@ -18,6 +18,8 @@ header:
 
 Here is a glimpse of what I have learned during Module 01 of the XR Design Fellowship program!
 
+As mentioned in the [intro article](../xr-design-fellowship-begins/), I am mostly paraphrasing experts and centralizing the learnings we get from them and the XR Design Fellowship team. For me this is mostly a learning summary of what I have learned this month.
+
 ## Glimpse of our module
 This was the first month of XR Bootcamp's XR Design Fellowship program.
 Here is XR Bootcamp's glimpse into the module:

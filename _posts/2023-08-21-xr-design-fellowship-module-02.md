@@ -18,6 +18,8 @@ header:
 
 Here is a glimpse of what I have learned during Module 02 of the XR Design Fellowship program!
 
+As usual, I am mostly paraphrasing experts and centralizing the learnings we get from them and the XR Design Fellowship team. For me this is mostly a learning summary of what I have learned this month.
+
 ## Glimpse of our module 
 
 Although methodologically similar, XR ideation differs from traditional UI/UX ideation in a key way. Spatial design is inherently hard to visualize and communicate among designers, making it more difficult to co-ideate and co-create than flat experiences. 

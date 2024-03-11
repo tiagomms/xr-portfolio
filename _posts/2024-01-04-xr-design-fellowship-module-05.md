@@ -19,6 +19,8 @@ header:
 Here is a glimpse of what I have learned during Module 05 of the XR Design Fellowship program!
 Sorry, but this is a bit of extra work for me (that helps a lot), but becomes difficult to manage.
 
+As usual, I am mostly paraphrasing experts and centralizing the learnings we get from them and the XR Design Fellowship team. For me this is mostly a learning summary of what I have learned this month.
+
 ## Glimpse of our module: Mixed Reality and Co-location Experiences
 
 With the launch of Quest 3 and the upcoming Vision Pro, the promising potential of Mixed Reality has grown even more - as the blending between virtual and real worlds becomes more and more a reality!
