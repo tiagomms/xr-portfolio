@@ -54,7 +54,11 @@ To see the original project and explainer, you can access to the [Module 01's pr
 
 {% include video id="848531256?h=435fa395d0&dnt=true" provider="vimeo" %}
 
-<div class="responsive-video-container">
+
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezel.it/7ixmko" style="">
+    <span class="btn">Bezi prototype full page link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezel.it/7ixmko" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>

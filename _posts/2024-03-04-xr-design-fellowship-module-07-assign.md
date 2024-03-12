@@ -69,9 +69,13 @@ You may access the [project's repo here](https://github.com/tiagomms/xrdf-module
 
 {% include video id="919694261?h=910ddc48e7" provider="vimeo" %}
 
-***Attention: to trigger the incense animation you have to click on it, but since it is quite a small object - it is a bit hard.***
+***Attention: to trigger the incense animation you have to click on it. Since it is quite a small object, it is a bit hard.***
 
-<div class="responsive-video-container">
+
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezi.com/zosfs2" style="">
+    <span class="btn">Bezi prototype full page link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezi.com/zosfs2" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
@@ -169,9 +173,12 @@ You can see the video and interact with it. As you might be able to see, I tried
 
 {% include video id="919694261?h=910ddc48e7" provider="vimeo" %}
 
-***Attention: to trigger the incense animation you have to click on it, but since it is quite a small object - it is a bit hard.***
+***Attention: to trigger the incense animation you have to click on it. Since it is quite a small object, it is a bit hard.***
 
-<div class="responsive-video-container">
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezi.com/zosfs2" style="">
+    <span class="btn">Bezi prototype full page link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezi.com/zosfs2" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
@@ -223,11 +230,15 @@ Same as in [module 06](../xr-design-fellowship-module-06-assign/). I didn't even
 
 ### Feedback
 
-(coming soon)
+I asked feedback to Aniol - he was very happy to provide it and gave valuable insights. I have just fixed the bezi prototype link in every page. 
 
+![Aniol feedback of my work]({{ site.url }}{{ site.baseurl }}/assets/images/xr-bootcamp/xr-design-fellowship/module/07/aniol-feedback.png)
+
+Thank you Aniol :)
 
 ### Next Steps
 
+- Improve design issues - mostly being able to grab the objects as intuitively as possible (without use of virtual hands, which for non-VR users may be confusing and a deterrent for using the app)
 - Add basic UI for meditation management (change lights according to type of meditation/chakra) - like a chakra orb record player
 - if it makes sense, some meditation bowl & drums, but that actually might bloat the augment
 

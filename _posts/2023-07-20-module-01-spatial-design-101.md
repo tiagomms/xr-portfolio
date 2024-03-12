@@ -61,11 +61,16 @@ In the end, I made a very simple prototype:
 * When clicking the cube, the panel goes backward, and the cube takes the main stage. Clicking again, reverts the position. The idea here is to simulate a drag cube to center space. If selected, should take center stage and the panel without disappearing moves a bit behind.
 * There is a bug with bezel animation between the hover and clicking states. It is not working well for now.
 
-<div class="responsive-video-container">
+
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezel.it/x29xt3" style="">
+    <span class="btn">Bezi prototype full page link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezel.it/x29xt3" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
 </div>
+
 
 {% include video id="845706037?h=80eecad37d&dnt=true" provider="vimeo" %}
 

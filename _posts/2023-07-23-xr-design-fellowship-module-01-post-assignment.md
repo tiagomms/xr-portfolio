@@ -30,7 +30,10 @@ The prototype was done in Bezel to showcase a future development. This was the f
 
 [Prototype Link](https://www.bezel.it/play/096d51bb-edee-418e-863b-a0cef3b7ba68)
 
-<div class="responsive-video-container">
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezel.it/7ixmko" style="">
+    <span class="btn">Bezi Module 01 end prototype link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezel.it/7ixmko" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
@@ -91,9 +94,12 @@ The project is incomplete and the UX not polished - but for the time I had, I am
 2. Began developing a simple app (T icon app), in which we should be able to drag a 3D model to the center for further customization, or slide to the left to go back to the main menu. The main app menu is pushed to the back when the 3D model is in the center.
 3. The app is independent from the dock. I can hide the dock and still play the app.
 4. The UI menus are completely default from Figma's Floatgrids design template. I just changed the primary palette color. Imported them to Bezel.
-5. Delivered my pre-assignment as the bezel prototype below. Check out the overall 1st month experience on the course - [link](https://github.com/tiagomms/XR-Bootcamp-XR-DesignFellowship/wiki/01.-Spatial-Design-101-From-2D-to-3D).
+5. Delivered my pre-assignment as the bezel prototype below. Check out the overall 1st month experience on the course - [link](../module-01-spatial-design-101).
 
-<div class="responsive-video-container">
+<div class="responsive-video-container" style="padding-bottom: 500px;">
+  <a id="assignment-module" target="_blank" href="https://bezel.it/x29xt3" style="">
+    <span class="btn">Bezi pre-assignment page link</span>
+  </a>
   <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
     <iframe src="https://bezel.it/x29xt3" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
