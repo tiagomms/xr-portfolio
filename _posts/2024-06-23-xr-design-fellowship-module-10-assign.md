@@ -185,7 +185,7 @@ Then I had to:
 
 {% include gallery id="gallery-stage-04" caption="Screenshots of the final Patch Editor" %}
 
-***Image disclaimer: (wrong label in the second image) where the colored boxes say Box Position, Rotation, Scale, they were actually the Toy Position, Rotation, Scale.***
+***Image disclaimer: (wrong label in the second image) where the colored boxes say Box Position, Rotation, Scale, they were actually Toy Position, Rotation, Scale.***
 
 At last, the template had an interactive tracking image instruction that I kept while the image target is not found. Since it was hardcoded (by the script provided by Meta), I just kept the block and variable names.
 
@@ -204,21 +204,20 @@ At last, the template had an interactive tracking image instruction that I kept 
 
 ## Conclusion
 
-I personally did not enjoy using Meta Spark that much. It does that thing of looking simple to use, when actually is hard once you get out of the normal use cases (provided by meta).
-When you are used to Unity, you kind of get bummed out for things like:
-- not being able to use both an image target and plane tracking (even toggling one for the other is not possible)
+I saw a lot of value for the use cases Meta Spark promotes (face filtering, simple ar content pop up). There are a lot of templates provided my Meta and it appears a cool way to learn more about shaders with real time changes. The sketchfab integration works quite well.
+
+But once you get out of the use cases provided - you really need to know the inner workings of it all (that I couldn't find any reference in the documentation). 
+
+I kind of got bummed out for things like:
+- not being able to use both an image target and plane tracking on the same demo (even toggling one for the other is not possible)
+- changing values by code locks any external changes via patch editor
 - there isn't a nice way to import different project templates into a main project (if projects start to get more complex, this may become an issue) 
 - limited use cases (it may be considered normal as it was focused for face filters, and simple ar content).
 - did not explore this: but it appeared there was no way of debugging scripts in real time (except by Diagnostics.log)
-- changing values by code locks any external changes via patch
 - lack of coding examples for physics related stuff 
 - integrate with unity/unreal/game engines - especially if things start to get trickier and more features are included
 
-Yet I see value in it. For AR content, there are a lot of templates and it appears a cool way to learn more about shaders with real time changes. The sketchfab integration is quite cool and works quite well.
-
-But I was not expecting to have such a hard time implementing my use case with physics.
-
-Then again, this is the way people learn :)
+Then again, the good thing of Meta Spark is that it is being constantly updated. And once a version for Meta Quest 3 comes out, it should bring a lot of nice features :)
 
 Thank you [Sergei Galkin](https://www.linkedin.com/in/sergeyglkn/), [Billy Kwok](https://www.linkedin.com/in/billykwokhk/) and the whole XR Bootcamp team for this module! 
 
