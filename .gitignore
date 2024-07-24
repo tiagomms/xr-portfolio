@@ -1,7 +1,8 @@
 # Ruby Gem
 *.gem
 .bundle
-Gemfile.lock
+# Gemfile.lock # so it doesn't crash github-pages CI system
+# reference: https://stackoverflow.com/questions/4151495/should-gemfile-lock-be-included-in-gitignore
 **/vendor/bundle
 
 # Jekyll generated files
