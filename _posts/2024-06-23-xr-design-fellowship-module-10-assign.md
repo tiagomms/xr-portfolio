@@ -55,6 +55,15 @@ gallery-stage-04:
     image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/10/patch-toy-transform-changes-03.png
     alt: "Creating a script producer patch - it took a while to find that out. It was key to send values from scripts and trigger changes in the patch"
     title: "Creating a script producer patch - it took a while to find that out. It was key to send values from scripts and trigger changes in the patch"
+gallery-feedback:
+  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/10/feedback-module-10-01.png
+    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/10/feedback-module-10-01.png
+    alt: "Sergei feedback part 1"
+    title: "Sergei feedback part 1"
+  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/10/feedback-module-10-02.png
+    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/10/feedback-module-10-02.png
+    alt: "Sergei's feedback part 2"
+    title: "Sergei's feedback part 2"
 
 ---
 
@@ -190,15 +199,21 @@ Then I had to:
 At last, the template had an interactive tracking image instruction that I kept while the image target is not found. Since it was hardcoded (by the script provided by Meta), I just kept the block and variable names.
 
 
-## Feedback (coming soon)
+## Feedback
 
+This month's expert [Sergei Galkin](https://www.linkedin.com/in/sergeyglkn/) liked the project.
+
+I asked him month's expert [Sergei Galkin](https://www.linkedin.com/in/sergeyglkn/) some questions on the two main issues I had regarding the patches/script interoperability and Spark's limitations on multi tracking systems on the same prototype. Below, his replies on the topics:
+
+{% include gallery id="gallery-feedback" layout="half" caption="Feedback on project by this month's expert Sergei Galkin" %}
 
 ### Next Steps
 
 - It appears there is a bug when I redo the animation many times. The toy gets projected higher and higher (perhaps I need to clean up the forces in the toy).
 - Being able to include more toys and differentiate each screen tap, rotation, and pinch (probably by using tap as a selecion method; and then the other gestures; or have a UI to select and sliders)
 - change from target to world tracking, to place the virtual cereal box on the ground or table, and then perform the animation part
-- make UI/UX to collect the toy and display its rewards (if makes sense) 
+- add sound effects
+- make UI/UX to collect the toy and display its rewards (if it makes sense) 
 - keep using Meta Spark
 
 
