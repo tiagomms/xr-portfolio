@@ -38,12 +38,12 @@ gallery-other-atmoky-demos:
     alt: "Atmoky Town - surprisingly accurate sound in 2D world"
     title: "Atmoky Town - surprisingly accurate sound in 2D world"
 gallery-audacity:
-  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/Audacity-01.png
-    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/Audacity-01.png
+  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/audacity-01.png
+    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/audacity-01.png
     alt: "Audacity Menu - changing the sample amplitude through the envelope tool"
     title: "Audacity Menu - changing the sample amplitude through the envelope tool"
-  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/Audacity-02.png
-    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/Audacity-02.png
+  - url: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/audacity-02.png
+    image_path: /assets/images/xr-bootcamp/xr-design-fellowship/module/09/audacity-02.png
     alt: "Audacity - compression effect to level sample sound (very helpful for looping)"
     title: "Audacity - compression effect to level sample sound (very helpful for looping)"
 
