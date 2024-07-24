@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # restrain version of github pages to avoid bugs
-gem "github-pages", "=227", group: :jekyll_plugins
+gem "github-pages", "=228", group: :jekyll_plugins
 
 # restrain faraday (a dependency of other stuff) of going above 3.1
 
