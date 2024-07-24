@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem "github-pages", "=228", group: :jekyll_plugins
+# restrain version of github pages to avoid bugs
+gem "github-pages", "=227", group: :jekyll_plugins
+
+# restrain faraday (a dependency of other stuff) of going above 3.1
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
