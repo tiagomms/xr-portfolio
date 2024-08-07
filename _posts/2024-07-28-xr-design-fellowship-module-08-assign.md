@@ -177,14 +177,16 @@ gallery-dev-support:
 
 ## Module 08 Assignment - Museum Experience: The 50th Anniversary of the Portuguese Revolution in the eyes of teenagers using Unity, Blender & GenAI
 
+> For this module, I was the Lead developer of an XR museum experience about the Portuguese Revolution 50 years ago. In which I used Unity for development, Photogrammetry and GenAI tools for 3d modelling prototyping, and mentored teenagers to design their first levels in VR. 
+
+The project took approximately 2 months from start to finish, working after hours as lead developer amd then project manager, educator and mentor for the students.
 
 {% include gallery id="gallery-students-work" caption="Experience developed with students in VR using Meta Quest 2 and 3" %}
 
 You may access the [project's repo here](https://github.com/tiagomms/xr-bienal-coimbra-2024) or you can actually [test the project build by downloading this folder](https://drive.google.com/drive/folders/1Aj5XmXlMycrWPSCeLwS6ia7tanMFYijB?usp=drive_link) into your Meta Quest. 
 
-I'm writing this blog two months after the project was completed, so these are mostly recollections.
+If you want to read more on the development process, please continue.
 
-The project took approximately 2 months from start to finish, working after hours as lead developer, project manager, educator and mentor for the students.
 
 ### Tools
 - Sketchfab - 3D model repo used by teenagers
@@ -205,7 +207,7 @@ The project took approximately 2 months from start to finish, working after hour
 
 The initial goal of this assignment was to create a XR Prototype for a meditation app using GenAI tools for image and 3d model generation.
 
-At the time, TUMO Coimbra (the school where I do workshops for teenagers on Game Development as a part-time job) had received a challenge from our [hometown's Biennal](https://ofantasmadaliberdade.anozero-bienaldecoimbra.pt/en). The Biennal wanted our students to share their visions of what freedom meant for them in celebration to the 50 years of the portuguese revolution. 
+At the time, TUMO Coimbra (the school where I do workshops for teenagers on Game Development as a part-time job) had received a challenge from our [hometown's Art Biennal](https://ofantasmadaliberdade.anozero-bienaldecoimbra.pt/en). The Biennal wanted our students to share their visions of what freedom meant for them in celebration to the 50 years of the portuguese revolution. 
 
 > :memo: **Note:** I have already written an article about TUMO and what we do [in a previous post](../xr-design-fellowship-module-03-pre-assign/) - in which I did an homage to it using ShapesXR!
 
