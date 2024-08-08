@@ -363,7 +363,7 @@ At the end of the talk, he had provided some codes for us to use in our projects
   - [lexica.art](https://lexica.art/) (flexible enough to create equirectangular images), 
   - [Adobe Firefly](https://firefly.adobe.com/) (was almost flexible - but beautiful for conceptual art).
 
-I did not provide students with access to these features (except generating a gaussian splatting model of the school). We might teach 3D modelling next year, and I feared their motivation to learn the craft could wane if "there is AI for that".
+I did not provide students with access to these features (except generating a gaussian splatting model of the school). We might teach 3D modelling next year, and I feared their motivation to learn the craft could wane with the feeling that "There is an AI for that".
 
 Here are some things I tried to do and include in the project:
 - Have a real location for a student level with LUMA/Polycam: I had a group of students that really wanted to do a scene representing the student revolution of the late 1960s in our hometown and use the TUMO building (that used to be the major post office) as backdrop. They didn't really like skyboxes from google maps in city view. So I tried to do some gaussian splattings using the [LUMA app](https://lumalabs.ai/interactive-scenes), and later on capsule skybox using [Polycam](https://poly.cam/). We ended not using them because they didn't have time. They did instead the revolution planning room. 
